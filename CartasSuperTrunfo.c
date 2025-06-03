@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 // Função para limpar o buffer do teclado (stdin)
 void limparBuffer() {
